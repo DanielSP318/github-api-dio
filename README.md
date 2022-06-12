@@ -14,8 +14,8 @@
 ### Use`npm start` para rodar o programa depois de usar `npm i`
 
 <h3 align= "center">Imagem do site:</h3>
-<img align="left" alt="imagem demonstrativa do jogo" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/443188123208384512/985653590649606174/unknown.png?width=1215&height=588">
-<img align="right" alt="imagem demonstrativa do jogo" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/443188123208384512/985654052715110470/unknown.png?width=1213&height=588">
+<img align="center" alt="imagem demonstrativa do jogo" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/443188123208384512/985653590649606174/unknown.png?width=1215&height=588">
+<img align="center" alt="imagem demonstrativa do jogo" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/443188123208384512/985654052715110470/unknown.png?width=1213&height=588">
 
 
 <h3 align="left">Connect with me:</h3>
