@@ -11,7 +11,7 @@
 
 - 📫 Me manda um e-mail caso não tenha instragram ou o linkedin **dsilvapereira318@gmail.com**
 
-### Use`npm start` para rodar o programa depois de usar `npm i`
+### Use `npm start` para rodar o programa depois de usar `npm i`
 
 <h3 align= "center">Imagem do site:</h3>
 <img align="center" alt="imagem demonstrativa do jogo" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/443188123208384512/985653590649606174/unknown.png?width=1215&height=588">
